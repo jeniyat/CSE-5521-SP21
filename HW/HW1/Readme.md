@@ -28,7 +28,9 @@ Information about the meaning of the other columns is listed in the [Readme](./D
 
 
 ## What to Turn In
-Please turn in the following to the dropbox on Carmen:
+Please turn in the following to Carmen by **02/17/2021 11:59 PM**:
 
 - Your code with and clear instruction to run it
 - A brief writeup (text file format) that includes the output of your program with the minimum information gain set to the following values: 1, 0.1, 0 (grows the full tree).
+
+
