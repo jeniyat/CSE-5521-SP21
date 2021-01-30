@@ -25,3 +25,10 @@ Below is a snapshot of the data
 Here each row corresponds to a mushroom. The first column is the label indicating whether the mushroom is edible (e) or poisonous (p). (This is the output that we wish to predict from the other columns). 
 
 Information about the meaning of the other columns is listed in the [Readme](./Data/Readme.md) file under the [Data](./Data) folder
+
+
+## What to Turn In
+Please turn in the following to the dropbox on Carmen:
+
+- Your code with and clear instruction to run it
+- A brief writeup (text file format) that includes the output of your program with the minimum information gain set to the following values: 1, 0.1, 0 (grows the full tree).
