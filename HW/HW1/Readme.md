@@ -31,6 +31,6 @@ Information about the meaning of the other columns is listed in the [Readme](./D
 Please turn in the following to Carmen by **02/17/2021 11:59 PM**:
 
 - Your code with and clear instruction to run it
-- A brief writeup (text file format) that includes the output of your program with the information gain values for each node.
+- A brief writeup (text file format) that includes the accuracy on test set as well as the calculation of the information gain for the **root** node of your final decision tree.
 
 
