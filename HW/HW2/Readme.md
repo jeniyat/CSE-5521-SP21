@@ -31,7 +31,7 @@ In this homework, you are to implement NaiveBayes algorithm for tweet classifica
 
 # Data Description
 
-The directory structure of the [data](./Data) folder is given below:
+The directory structure of the [Data](./Data) folder is given below:
 
 ```
 ./Data/
