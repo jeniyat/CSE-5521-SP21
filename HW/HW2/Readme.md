@@ -20,15 +20,6 @@
 
 
 
-
-
-# Introduction
-
-In this homework, you are to implement NaiveBayes algorithm for tweet classifications. You will play with the Twitter Senitment Analysis data, where each tweet is tagged as with either Positive, Negative, or Neutral sentiment.
-
-
-# Data Description
-
 The directory structure of the [Data](./Data) folder is given below:
 
 ```
@@ -63,7 +54,9 @@ The directory structure of the [Data](./Data) folder is given below:
 
 # NaiveBayes Classilier (100 pts)
 
-* You will implement NaiveBayes in this homework.
+In this homework, you are to implement NaiveBayes algorithm for tweet classifications. You will play with the Twitter Senitment Analysis data, where each tweet is tagged as with either Positive, Negative, or Neutral sentiment.
+
+
 
 
 
