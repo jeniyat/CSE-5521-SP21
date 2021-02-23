@@ -4,9 +4,7 @@
 
 * Due date and time: March 26 (Friday), 11:59 pm ET
 
-* Carmen submission: 
-
-Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which contains your full code and a instruction to run it. When running the code it should output the accuracy on the test data.
+* Carmen submission: Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which contains your full code and a instruction to run it. When running the code it should output the accuracy on the test data.
  
 * Collaboration: You may discuss the homework with your classmates. However, you need to write your own solutions and submit them separately. In your submission, you need to list with whom you have discussed the homework. 
 
