@@ -41,8 +41,8 @@ The directory structure of the [Data](./Data) folder is given below:
    │   └── Positive.txt
    └── test
 	   ├── Negative.txt
-	   ├── Neutral.txt
-	   └── Positive.txt
+       ├── Neutral.txt
+       └── Positive.txt
 ```
 
 
