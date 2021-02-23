@@ -73,6 +73,6 @@ The directory structure of the [Data](./Data) folder is given below:
 
 * Your completed NaiveBayes Classifier code.
 * A readme file with instruction to run your code.
-* A text file which contains the accuracy on the test data with respect to different smoothing papermater values (Try \alpha = 1, 0.5, 2, 10).
+* A text file which contains the accuracy on the test data with respect to different smoothing papermater values (Try α = 1, 0.5, 2, 10).
 
 
