@@ -2,7 +2,7 @@
 
 ## Submission instructions
 
-* Due date and time: March 24 (Friday), 11:59 pm ET
+* Due date and time: March 26 (Friday), 11:59 pm ET
 
 * Carmen submission: 
 
@@ -18,7 +18,7 @@ Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which cont
 
 # Dataset
 
-* You will see a [`data-sentiment`](`HW2/Data/`) directory, which contains train data (`train/Positive.txt`, `train/Neutral.txt`, `train/Negative.txt`) and the test data (`test/Positive.txt`, `test/Neutral.txt`, `test/Negative.txt`).
+* You will see a [`Data`](`HW2/Data/`) directory, which contains train data (`train/Positive.txt`, `train/Neutral.txt`, `train/Negative.txt`) and the test data (`test/Positive.txt`, `test/Neutral.txt`, `test/Negative.txt`).
 
 
 
@@ -62,7 +62,7 @@ The directory structure of the [data](./Data) folder is given below:
 
 
 
-# NaiveBayes Classification (50 pts)
+# NaiveBayes Classilier (100 pts)
 
 * You will implement NaiveBayes in this homework.
 
@@ -70,8 +70,8 @@ The directory structure of the [data](./Data) folder is given below:
 
 # What to submit:
 
-* Your completed NaiveBayes Solution code.
+* Your completed NaiveBayes Classifier code.
 * A readme file with instruction to run your code.
-* A text file which contains the accuracy on the test data.
+* A text file which contains the accuracy on the test data with respect to different smoothing papermater values (Try alpha = 1, 0.5, 2, 10).
 
 
