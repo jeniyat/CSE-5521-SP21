@@ -35,14 +35,15 @@ The directory structure of the [Data](./Data) folder is given below:
 
 ```
 ./Data/
-   ├── train
-   │   ├── Negative.txt
-   │   ├── Neutral.txt
-   │   └── Positive.txt
-   └── test
-	   ├── Negative.txt
-       ├── Neutral.txt
-       └── Positive.txt
+├── test
+│   ├── Negative.txt
+│   ├── Neutral.txt
+│   └── Positive.txt
+└── train
+    ├── Negative.txt
+    ├── Neutral.txt
+    └── Positive.txt
+
 ```
 
 
