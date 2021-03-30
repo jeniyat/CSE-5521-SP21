@@ -9,7 +9,7 @@ Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which cont
   - your completed python script `Linear_Classifiers.py`
   - A short report (no more than one page), saved as a pdf named `name.number.pdf` (see **What to submit** at the end)
  
-* Collaboration: You may discuss the homework with your classmates. However, you need to write your own solutions and submit them separately. In your submission, you need to list with whom you have discussed the homework. Please list each classmate's name and name.number (e.g., Wei-Lun Chao, chao.209) in the short report. Please consult the syllabus for what is and is not acceptable collaboration.
+* Collaboration: You may discuss the homework with your classmates. However, you need to write your own solutions and submit them separately. In your submission, you need to list with whom you have discussed the homework. Please list each classmate's name and name.number (e.g., Jeniya Tabassum, tabassum.13) in the short report. 
 
 
 ## Implementation instructions
