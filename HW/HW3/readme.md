@@ -18,7 +18,7 @@ Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which cont
 
 * You will see the python file name `Linear_Classifiers.py`
 
-* Download the data `Starplus.npz` from [here](https://drive.google.com/file/d/1ehW9GEWqMSg8_7FRMSYO2pdyRXJtF5-o/view?usp=sharing) and put it in the same folder as `Linear_Classifiers.py`
+* Download the data `Starplus.npz` from [here](https://drive.google.com/file/d/1JImhOGGX_NjroIToTBTDAlBGr3R89gBs/view?usp=sharing) and put it in the same folder as `Linear_Classifiers.py`
 
 * Please use python3 and write your own solutions from scratch. You may need NumPy.
 
