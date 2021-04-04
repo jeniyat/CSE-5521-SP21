@@ -2,7 +2,7 @@
 
 ## Submission instructions
 
-* Due date and time: April 23 (Friday), 11:59 pm ET
+* Due date and time: April 23 (Friday), 11:59 pm ET. *No late submission is allowed for this HW.*
 
 * Carmen submission: Submit a .zip file named `name.number.zip` (e.g., `tabassum.13.zip`), which contains your full code and a instruction to run it. When running the code it should output the accuracy on the test data.
  
